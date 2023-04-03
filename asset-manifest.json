@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Imarticus-learnings/static/css/main.e6dc309d.css",
+    "main.js": "/Imarticus-learnings/static/js/main.29069777.js",
+    "static/js/787.deeec6c3.chunk.js": "/Imarticus-learnings/static/js/787.deeec6c3.chunk.js",
+    "index.html": "/Imarticus-learnings/index.html",
+    "main.e6dc309d.css.map": "/Imarticus-learnings/static/css/main.e6dc309d.css.map",
+    "main.29069777.js.map": "/Imarticus-learnings/static/js/main.29069777.js.map",
+    "787.deeec6c3.chunk.js.map": "/Imarticus-learnings/static/js/787.deeec6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6dc309d.css",
+    "static/js/main.29069777.js"
+  ]
+}
